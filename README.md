@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sefa Akkoç</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate frontend and backend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Deep Learning, A.I , Cyber Security , Web Site Design , Arduino**
 
